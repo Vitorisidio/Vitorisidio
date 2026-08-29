@@ -160,7 +160,7 @@ alt="Animação da Snake"
 
 # 📫 ENTRE EM CONTATO
 
-<a href="www.linkedin.com/in/vitor-isidio">
+<a href="https://www.linkedin.com/in/vitor-isidio">
 <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
